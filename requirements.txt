@@ -1,0 +1,6 @@
+flask
+gunicorn
+graphviz
+nbformat
+operator
+itemgetter
